@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=restfb-1.6.13-DEVELOPMENT.jar -DgroupId=com.restfb  -DartifactId=restfb  -Dversion=1.6.13-DEVELOPMENT -Dpackaging=jar
